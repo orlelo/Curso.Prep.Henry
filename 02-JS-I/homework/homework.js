@@ -30,15 +30,6 @@ function devolverString(str) {
   
 }
 
-for(var i = 1; i < 10; i++) {
-  i
-  continue; 
-  i 
-}
-console.log(i)
-
-
-
 
 function suma(x, y) {
   // "x" e "y" son números
